@@ -1,0 +1,25 @@
+body {
+    background-color: white;   
+}
+h1 {
+    color: black;
+}
+header {
+    color: black;
+    background-color: greenyellow;
+    padding: 10px;
+}
+.amain {
+    color: pink;
+}
+.tituloesa {
+    color: black;
+}
+.ESA {
+    color: brown;
+}
+.Forms {
+    color: rgb(51, 138, 33);
+    text-align: center;
+}
+
